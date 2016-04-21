@@ -1,0 +1,11 @@
+{
+  "name": "imagen-auto",
+  "version": "1.0.0",
+  "description": "Generar imagen a partir de plantilla html/css",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server"
+  },
+  "author": "Carlos Vallejos <carlos@vamyal.com>",
+  "license": "MIT"
+}
